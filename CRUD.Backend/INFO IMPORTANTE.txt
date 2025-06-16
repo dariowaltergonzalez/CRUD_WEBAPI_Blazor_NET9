@@ -1,0 +1,11 @@
+﻿https://www.youtube.com/watch?v=1vCgyLkoEUU
+Como crear CRUD + WEB API con Blazor y .NET 9
+Tecnologers
+22 feb 2025
+
+SQL:
+NOMBRE DE LA BASE:CRUD_WEBAPI_Blazor_NET9
+NOTEBOOK BANGHO
+
+PARA VER SWAGGER EN EL NAVEGADOR:
+https://localhost:7250/swagger/index.html
