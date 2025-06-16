@@ -5,7 +5,7 @@
 namespace CRUD.Backend.Migrations
 {
     /// <inheritdoc />
-    public partial class CRUDBlazor : Migration
+    public partial class Initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

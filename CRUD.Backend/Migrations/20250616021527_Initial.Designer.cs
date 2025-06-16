@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CRUD.Backend.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250219155959_CRUDBlazor")]
-    partial class CRUDBlazor
+    [Migration("20250616021527_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
